@@ -12,32 +12,19 @@ Structure answers as: **Situation** (context), **Task** (your responsibility), *
 
 Keep answers to 1-2 minutes. Be specific. End with what you learned or would do differently.
 
-## Ready-Made STAR Examples
+## Dickson's Story Bank (source of truth)
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+Do not keep STAR stories here. The shared story bank is `/mnt/project-files/prep/story-bank.md`; company-specific material lives in `/mnt/project-files/prep/<company>/`. Read both before any prep session, and write new confirmed stories back to the story bank.
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### Mock interview loop
+1. Ask for the company, role and stage (application form, video interview, assessment centre, final round).
+2. Ask one question at a time, with a time limit (usually 90 seconds; state it).
+3. Score the answer out of 10 on structure (STAR), specificity (numbers, "I" not "we"), relevance to an RM, and delivery.
+4. Give a stronger version of about 150 words, built only from facts in the story bank or what Dickson tells you.
+5. Add a short cue card (5-6 numbered keywords). Dickson speaks slower when nervous, so keep cues short.
+6. Missing a detail? Ask what Dickson actually did. Never invent experience.
+7. Practice only: never write answers live during a real assessment that candidates must complete themselves.
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
-
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
-
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
 ## Common Tough Questions
 
