@@ -12,7 +12,9 @@ Structure answers as: **Situation** (context), **Task** (your responsibility), *
 
 Keep answers to 1-2 minutes. Be specific. End with what you learned or would do differently.
 
-## Dickson's Story Bank (source of truth)
+## Ready-Made STAR Examples
+
+<!-- Dickson: stories live in the shared story bank (source of truth). -->
 
 Do not keep STAR stories here. The shared story bank is `/mnt/project-files/prep/story-bank.md`; company-specific material lives in `/mnt/project-files/prep/<company>/`. Read both before any prep session, and write new confirmed stories back to the story bank.
 
