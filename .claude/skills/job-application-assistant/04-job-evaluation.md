@@ -46,6 +46,18 @@ Judge the level comparison the same way you judge everything else in this framew
 
 **Worked example:** a candidate whose Languages table lists Spanish (Native) and English (B1/B2). A posting requiring "fluent Russian" → **FAIL**, Russian isn't declared at all. A posting requiring "fluent English" → **FLAG**, English is declared but "fluent" plausibly exceeds B1/B2 — score and draft the application, but tell the candidate this posting's bar may be a stretch and let them decide. A posting requiring "conversational English" or unspecified English → **PASS**, B1/B2 clears a "conversational" bar cleanly.
 
+## HK Private Banking Gate (Dickson) — run with the gates above
+
+For private banking / wealth RM roles in Hong Kong, check and report each item before scoring:
+- **Programme type:** graduate / analyst / associate RM programme vs experienced-hire RM. Experienced-hire roles asking for an existing book of clients or 3+ years' RM experience are a Weak Fit; say so plainly.
+- **Start date & eligibility:** intake date vs Dickson's availability (Jun 2027); right to work in HK (Dickson is HK-based by background; confirm if the posting mentions visas).
+- **Languages:** Cantonese, Mandarin and English all count as strengths; flag any other language required (e.g. Japanese, Bahasa) as a gap.
+- **Licensing:** whether HKSI LE Papers 1/7/8, ECF on Private Banking (CPB) or Type 1/4 licensing are required up front or sponsored. Dickson holds none yet; "sponsored" is fine, "required at application" is a gap.
+- **Client segment:** UHNW / HNW / affluent. Map to the Raffles Family Office UHNW experience.
+- **Assessment process:** note stages (online tests, video interview, assessment centre, superday) and point to the company prep file in `/mnt/project-files/prep/<company>/`.
+
+Score Experience Match against client-facing finance work (Raffles, Aceway sales), not engineering. Engineering counts only as analytical evidence.
+
 ## Scoring Dimensions
 
 Evaluate each job posting against these five dimensions:
